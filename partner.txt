@@ -1,0 +1,31 @@
+Go-Fish Program
+Ryan Guilmette and Nasif Pervez
+
+Deck.c 
+
+shuffle - Ryan 
+deal_player_cards - Nasif
+next_card - Ryan
+deck_size - Nasif
+
+Player.c
+
+add_card - Ryan
+remove_card - Ryan
+check_add_book - Nasif
+search - Nasif
+transfer_cards - Ryan
+game_over - Ryan
+reset_player - Nasif
+computer_play - Nasif
+user_play - Nasif
+
+GoFish.c
+
+main - Ryan
+game_start - Nasif
+game_loop - Ryan
+game_end - Ryan
+pR - Nasif
+print_hand - Ryan
+print_book - Ryan
